@@ -1,0 +1,1 @@
+pm2 start klasa.js --name StaffBot
